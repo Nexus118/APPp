@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+.CENTRAR {
+	text-align: center;
+}
+.texto {
+	font-family: Calibri;
+	font-size: 12px;
+	color: #FFF;
+	font-weight: bold;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #009545;
+	text-decoration: none;
+	text-shadow: 1px 0px 0px #999;
+}
+a:visited {
+	text-decoration: none;
+	color: #009545;
+	text-shadow: 1px 0px 0px #999;
+}
+a:hover {
+	text-decoration: underline;
+	color: #009545;
+	text-shadow: 1px 0px 0px #999;
+}
+a:active {
+	text-decoration: none;
+	color: #FFF;
+	font-size: 16px;
+}
+a {
+	font-family: Calibri;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.texto table tr td p {
+	color: #202020;
+	font-size: 15px;
+	font-weight: bold;
+}.texto table tr td table tr td p {
+	text-align: justify;
+}
